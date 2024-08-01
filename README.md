@@ -1,0 +1,2 @@
+# -die-komento
+Die commands
